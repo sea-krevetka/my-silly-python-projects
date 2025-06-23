@@ -18,3 +18,6 @@ It fills out bombs and chooses safe squares to fill out where chest is using bom
    - X - Powder keg (game ends)
    - T - Chest (win!)
 4. The bot analyzes the information and suggests the next hole
+  
+  
+I tested this bot on my acc and it, ~~(in fact and to my dearest surprise)~~, sucessfully found all three chests in <10 moves, though chests may've been hidden in some lucky way. (and it felt like it was hidden in a same place every time?) but on [ws i used to see the rules of the game](https://wotpack.ru/genshin-impact-kak-vyigrat-u-stariny-chou-ta-dam-u-nas-snova-pobeditel-dostizhenie/) in example the chest was hidded in a down left corner. probably should make a bot to create such fields to check this bot- cause that sure sound fun. 
