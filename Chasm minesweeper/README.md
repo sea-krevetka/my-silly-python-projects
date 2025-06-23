@@ -9,14 +9,14 @@ It fills out bombs and chooses safe squares to fill out where chest is using bom
 
 ## How to use the bot:
 1. Run the program
-2. The bot will suggest the next digging hole in the format (row, column)
+2. The bot will suggest the next digging squares in the format (row, column)
 3. Enter what you found in this hole:
    - space - empty hole  
    - C - cabbage  
-   - P - potatoes  
+   - P - potatoe  
    - I - iron ore  
-   - X - Powder keg (game ends)
-   - T - Chest (win!)
+   - X - bomb (game ends)
+   - T - chest (win!)
 4. The bot analyzes the information and suggests the next hole
   
   
